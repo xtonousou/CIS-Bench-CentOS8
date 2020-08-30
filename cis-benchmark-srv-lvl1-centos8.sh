@@ -18,7 +18,7 @@ function banner() {
 	| \\__/\\_| |_/\\__/ /          | \\__/\\  __/ | | | || (_) \\__ \\ | |_| |
  	 \\____/\\___/\\____/            \\____/\\___|_| |_|\\__\\___/|___/ \\_____/${RESET}
 
-                    ${BOLD}Benchmark v1.0.0 [Sotirios Roussis - sroussis@space.gr]${RESET}"
+                    ${BOLD}Benchmark v1.0.0 [Sotirios Roussis - sroussis@space.gr]${RESET}\\n\\n"
 
 	return 0
 }
