@@ -33,7 +33,7 @@ function _help() {
 	echo -ne "${BOLD}Positional Arguments${RESET}\\n"
 	echo -ne "  -h|--help\\tShows this help message.\\n"
 	echo -ne "  -d|--dry\\tDry runs the benchmark without any actions. DEFAULT.\\n"
-	echo -ne "  -e|--execute\\tRuns the benchmarks and executes the recommended remediations.\\n\\n"
+	echo -ne "  -e|--execute\\tRuns the benchmarks and executes the recommended remediations. DANGEROUS.\\n\\n"
 	echo -ne "${BOLD}Optional${RESET}\\n"
 	echo -ne "  -s|--skip|--skip=<paragraph1,paragraphN>\\tSkips the given checks. NOT IMPLEMENTED YET.\\n\\n"
 	return 0
